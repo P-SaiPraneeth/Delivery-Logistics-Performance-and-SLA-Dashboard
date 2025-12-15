@@ -15,6 +15,7 @@ Monitor SLA breach percentage as an executive KPI
 Enable data-driven decision-making using interactive visuals
 
 📊 Dashboard Features
+
 🔹 Key KPIs
 
 SLA Breach % (Gauge)
